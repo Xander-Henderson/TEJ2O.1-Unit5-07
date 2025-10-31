@@ -2,7 +2,8 @@
  *
  * Created by: Alexander
  * Created on: Oct 2025
- * This program turns a servo left and right
+ * This program turns a servo to 0 degrees
+ * and to 180 degrees when clicking A and B
 */
 
 // variable 
